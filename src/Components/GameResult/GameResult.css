@@ -1,0 +1,7 @@
+.win-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 100px;
+  color: rgba(173, 83, 229, 0.66);
+}
